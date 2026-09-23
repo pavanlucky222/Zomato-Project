@@ -23,4 +23,3 @@ function App() {
 
 export default App;
 
-pavan lucky
